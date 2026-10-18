@@ -23,6 +23,9 @@ def sound_table(system):
         out += '</tr>'
     return out + '</tbody></table></div>'
 
+def brief(system):
+    return (ROOT / f"data/briefs/{system}.html").read_text(encoding="utf-8")
+
 def panels():
     verses = json.loads((ROOT/'data/utahi.json').read_text())
     assert [v['number'] for v in verses] == list(range(1,81))
@@ -32,7 +35,7 @@ def panels():
 <div class="panel-heading"><div class="eyebrow">48 characters · ヲシテ</div><h2>Woshite character table</h2><p>A sound reference with kana labels. The source chart places WI and WE in the Y-family positions and N in the W/U position; these labels do not establish separate YI, YE, or WU characters.</p></div>
 {sound_table('woshite')}
 <p class="source-note">Glyphs: MOTOI Kenkichi, <a href="{WOSH_SOURCE}" target="_blank" rel="noopener">Japanese Wosite Base 48 table</a>, Wikimedia Commons. Cropped into individual cells; licensed under <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>. The cropped glyph assets use the same license.</p>
-<details class="research-note"><summary>Sources and historical context</summary><p>This is a reference to the script’s documented modern charts. Claims of prehistoric use are not established here. Woshite is associated with the Hotsuma Tsutae, Mikasafumi, and Futomani texts.</p><p><a href="https://woshiteworld.wordpress.com/2016/01/02/wosite-basics/">Practitioner’s account of the syllabary</a> describes variant readings, including WU/N. Interpretive claims are distinct from verified historical evidence.</p></details></section>'''
+{brief('woshite')}</section>'''
     katakamuna = f'''<section id="panel-katakamuna" class="tab-panel" role="tabpanel" aria-labelledby="tab-katakamuna" tabindex="0" hidden>
 <div class="panel-heading"><div class="eyebrow">48 sounds · 80 utahi · カタカムナ</div><h2>Katakamuna sound table</h2><p>The 48 sound symbols are the script’s character inventory. The 80 utahi are numbered verses composed with those symbols, rather than 80 different characters.</p></div>
 {sound_table('katakamuna')}
@@ -43,6 +46,6 @@ def panels():
 <p class="source-note">The reader loads an external PDF. If your browser opens page 1 or cannot display the document, use the open link and enter the verse number in its page selector.</p>
 <iframe id="verse-reader" title="Katakamuna utahi source PDF, verse 1" data-src="{VERSE_PDF}#page=1" loading="lazy" referrerpolicy="no-referrer"></iframe>
 <details class="verse-sources"><summary>Source table · all 80 verses</summary><div class="table-scroll"><table><caption>Numbered utahi diagrams and individual source pages</caption><thead><tr><th scope="col">Utahi</th><th scope="col">Diagram</th><th scope="col">Source page</th></tr></thead><tbody>{links}</tbody></table></div></details>
-<p class="source-note">Circular diagrams: <a href="{VERSE_PDF}">Hajime’s 80-page Katakamuna Utai collection</a>. Individual references: <a href="https://katakamuna.themedia.jp/pages/5412396/page_202110120420">カタカムナウタヒ 80首</a>. External works remain hosted by their publishers; commentary has not been copied into this research site.</p></section>
-<details class="research-note"><summary>Historical context and interpretation</summary><p>Katakamuna’s reported discovery is associated with Narasaki Satsuki in 1949. Claims of a prehistoric civilization or scientific powers are part of the tradition’s interpretation, not established conclusions of this research.</p><p><a href="https://katakamu-na.com/katakamuna/">Practitioner’s account of the discovery story</a> · <a href="https://katakamunahozonkai.jp/">Katakamuna preservation association</a></p></details></section>'''
+<p class="source-note">Circular diagrams: <a href="{VERSE_PDF}">Hajime’s 80-page Katakamuna Utai collection</a>. Individual references: <a href="https://katakamuna.themedia.jp/pages/5412396/page_202110120420">カタカムナウタヒ 80首</a>. External works remain hosted by their publishers; English summaries appear in the research brief.</p></section>
+{brief('katakamuna')}</section>'''
     return woshite + katakamuna
