@@ -40,7 +40,7 @@ The original proposal can also be found on the official Unicode website: [http:/
 
 ## Research website
 
-The site has three tabs: Hiragana / Katakana, Woshite, and Katakamuna.
+The original three tabs are Hiragana / Katakana, Woshite, and Katakamuna; seven additional research tabs are documented below.
 Run `python3 data/generate_site.py` to regenerate `index.html`.
 
 - Woshite: 48 locally bundled glyph crops by MOTOI Kenkichi, CC BY-SA 3.0. See `assets/glyphs/woshite/ATTRIBUTION.md`.
@@ -48,3 +48,9 @@ Run `python3 data/generate_site.py` to regenerate `index.html`.
 - Utahi: all 80 numbered entries in `data/utahi.json`, with individual source links and a selectable external PDF reader. The PDF remains at https://hajime.online/download/KATAKAMUNAUTAI80SHU.pdf; no full verse transcription or modern commentary is redistributed.
 
 The 48 sound symbols and the 80 utahi are different collections. WI, WE, and N labels follow the cited charts; the tables do not invent YI, YE, or WU mappings. Prehistoric-origin and spiritual/scientific claims are not established historical conclusions of this project.
+
+## Expanded script catalog and legends
+
+The site now also includes Hentaigana, Man’yōgana, Ahiru, Ahiru cursive, Toyokuni (both old and new styles), Izumo, and Ryūtai. Each has an English brief, attributed legends or transmission narratives, a separate provenance section, and a character reference. The existing three tabs also include legend sections.
+
+Hentaigana includes a searchable 314-record comparison catalog: 286 encoded forms plus 28 additional institute entries. Noto Serif Hentaigana is bundled under the SIL Open Font License for reliable rendering. Additional traditional-script graphics remain on their original publisher's server. See [reference sources and scope](data/REFERENCE_SOURCES.md) for inventories, citations, display provenance, and limits.

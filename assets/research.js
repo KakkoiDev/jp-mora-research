@@ -34,6 +34,12 @@
     reader.title = `Katakamuna utahi source PDF, verse ${n}`;
     document.getElementById('verse-open').href = url;
   }));
+  document.querySelectorAll('[data-filter]').forEach(input => input.addEventListener('input', () => {
+    const cards = [...document.getElementById(input.dataset.filter).children];
+    const query = input.value.trim().toLowerCase();
+    cards.forEach(card => { card.hidden = !card.dataset.search.includes(query); });
+    document.querySelector(`[data-count="${input.dataset.filter}"]`).textContent = `${cards.filter(card => !card.hidden).length} of ${cards.length} forms`;
+  }));
   window.addEventListener('hashchange', () => activate(location.hash.slice(1)));
   activate(location.hash.slice(1));
 })();

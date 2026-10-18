@@ -1,0 +1,1760 @@
+[
+  {
+    "id": "010010010",
+    "reading": "あ",
+    "parent": "安",
+    "codepoint": "1B002"
+  },
+  {
+    "id": "010010020",
+    "reading": "あ",
+    "parent": "安",
+    "codepoint": null
+  },
+  {
+    "id": "010020010",
+    "reading": "あ",
+    "parent": "惡",
+    "codepoint": "1B005"
+  },
+  {
+    "id": "010030010",
+    "reading": "あ",
+    "parent": "愛",
+    "codepoint": "1B003"
+  },
+  {
+    "id": "010040010",
+    "reading": "あ",
+    "parent": "阿",
+    "codepoint": "1B004"
+  },
+  {
+    "id": "020010010",
+    "reading": "い",
+    "parent": "以",
+    "codepoint": "1B006"
+  },
+  {
+    "id": "020020010",
+    "reading": "い",
+    "parent": "伊",
+    "codepoint": "1B007"
+  },
+  {
+    "id": "020030010",
+    "reading": "い",
+    "parent": "意",
+    "codepoint": "1B008"
+  },
+  {
+    "id": "020050010",
+    "reading": "い",
+    "parent": "移",
+    "codepoint": "1B009"
+  },
+  {
+    "id": "030020010",
+    "reading": "う",
+    "parent": "宇",
+    "codepoint": "1B00A"
+  },
+  {
+    "id": "030020020",
+    "reading": "う",
+    "parent": "宇",
+    "codepoint": "1B00B"
+  },
+  {
+    "id": "030030010",
+    "reading": "う",
+    "parent": "憂",
+    "codepoint": "1B00C"
+  },
+  {
+    "id": "030040010",
+    "reading": "う",
+    "parent": "有",
+    "codepoint": "1B00D"
+  },
+  {
+    "id": "030050010",
+    "reading": "う",
+    "parent": "雲",
+    "codepoint": "1B00E"
+  },
+  {
+    "id": "040010010",
+    "reading": "え",
+    "parent": "得",
+    "codepoint": null
+  },
+  {
+    "id": "040020010",
+    "reading": "え",
+    "parent": "江",
+    "codepoint": "1B001"
+  },
+  {
+    "id": "040030010",
+    "reading": "え",
+    "parent": "盈",
+    "codepoint": "1B00F"
+  },
+  {
+    "id": "040040010",
+    "reading": "え",
+    "parent": "縁",
+    "codepoint": "1B010"
+  },
+  {
+    "id": "040050010",
+    "reading": "え",
+    "parent": "衣",
+    "codepoint": "1B011"
+  },
+  {
+    "id": "040050020",
+    "reading": "え",
+    "parent": "衣",
+    "codepoint": "1B012"
+  },
+  {
+    "id": "040060010",
+    "reading": "え",
+    "parent": "要",
+    "codepoint": "1B013"
+  },
+  {
+    "id": "050010010",
+    "reading": "お",
+    "parent": "於",
+    "codepoint": "1B014"
+  },
+  {
+    "id": "050010020",
+    "reading": "お",
+    "parent": "於",
+    "codepoint": "1B015"
+  },
+  {
+    "id": "050020010",
+    "reading": "お",
+    "parent": "隱",
+    "codepoint": "1B016"
+  },
+  {
+    "id": "060010010",
+    "reading": "か",
+    "parent": "佳",
+    "codepoint": "1B017"
+  },
+  {
+    "id": "060020010",
+    "reading": "か",
+    "parent": "加",
+    "codepoint": "1B018"
+  },
+  {
+    "id": "060030010",
+    "reading": "か",
+    "parent": "可",
+    "codepoint": "1B019"
+  },
+  {
+    "id": "060030020",
+    "reading": "か",
+    "parent": "可",
+    "codepoint": "1B01A"
+  },
+  {
+    "id": "060040010",
+    "reading": "か",
+    "parent": "哥",
+    "codepoint": null
+  },
+  {
+    "id": "060050010",
+    "reading": "か",
+    "parent": "嘉",
+    "codepoint": "1B01B"
+  },
+  {
+    "id": "060060010",
+    "reading": "か",
+    "parent": "家",
+    "codepoint": "1B022"
+  },
+  {
+    "id": "060070010",
+    "reading": "か",
+    "parent": "我",
+    "codepoint": "1B01C"
+  },
+  {
+    "id": "060080010",
+    "reading": "か",
+    "parent": "歌",
+    "codepoint": null
+  },
+  {
+    "id": "060090010",
+    "reading": "か",
+    "parent": "歟",
+    "codepoint": "1B01D"
+  },
+  {
+    "id": "060100010",
+    "reading": "か",
+    "parent": "賀",
+    "codepoint": "1B01E"
+  },
+  {
+    "id": "060110010",
+    "reading": "か",
+    "parent": "閑",
+    "codepoint": "1B01F"
+  },
+  {
+    "id": "060120010",
+    "reading": "か",
+    "parent": "香",
+    "codepoint": "1B020"
+  },
+  {
+    "id": "060130010",
+    "reading": "か",
+    "parent": "駕",
+    "codepoint": "1B021"
+  },
+  {
+    "id": "070020010",
+    "reading": "き",
+    "parent": "喜",
+    "codepoint": "1B023"
+  },
+  {
+    "id": "070030010",
+    "reading": "き",
+    "parent": "季",
+    "codepoint": null
+  },
+  {
+    "id": "070040010",
+    "reading": "き",
+    "parent": "幾",
+    "codepoint": "1B024"
+  },
+  {
+    "id": "070040020",
+    "reading": "き",
+    "parent": "幾",
+    "codepoint": "1B025"
+  },
+  {
+    "id": "070050010",
+    "reading": "き",
+    "parent": "支",
+    "codepoint": "1B026"
+  },
+  {
+    "id": "070060010",
+    "reading": "き",
+    "parent": "木",
+    "codepoint": "1B027"
+  },
+  {
+    "id": "070070010",
+    "reading": "き",
+    "parent": "祈",
+    "codepoint": "1B028"
+  },
+  {
+    "id": "070110010",
+    "reading": "き",
+    "parent": "起",
+    "codepoint": "1B02A"
+  },
+  {
+    "id": "080010010",
+    "reading": "く",
+    "parent": "久",
+    "codepoint": "1B02B"
+  },
+  {
+    "id": "080010020",
+    "reading": "く",
+    "parent": "久",
+    "codepoint": "1B02C"
+  },
+  {
+    "id": "080020010",
+    "reading": "く",
+    "parent": "九",
+    "codepoint": "1B02D"
+  },
+  {
+    "id": "080030010",
+    "reading": "く",
+    "parent": "供",
+    "codepoint": "1B02E"
+  },
+  {
+    "id": "080040010",
+    "reading": "く",
+    "parent": "倶",
+    "codepoint": "1B02F"
+  },
+  {
+    "id": "080050010",
+    "reading": "く",
+    "parent": "具",
+    "codepoint": "1B030"
+  },
+  {
+    "id": "080060010",
+    "reading": "く",
+    "parent": "求",
+    "codepoint": "1B031"
+  },
+  {
+    "id": "090010010",
+    "reading": "け",
+    "parent": "介",
+    "codepoint": "1B033"
+  },
+  {
+    "id": "090020010",
+    "reading": "け",
+    "parent": "希",
+    "codepoint": "1B034"
+  },
+  {
+    "id": "090030010",
+    "reading": "け",
+    "parent": "氣",
+    "codepoint": "1B035"
+  },
+  {
+    "id": "090050010",
+    "reading": "け",
+    "parent": "計",
+    "codepoint": "1B036"
+  },
+  {
+    "id": "090060010",
+    "reading": "け",
+    "parent": "遣",
+    "codepoint": "1B037"
+  },
+  {
+    "id": "100010010",
+    "reading": "こ",
+    "parent": "古",
+    "codepoint": "1B038"
+  },
+  {
+    "id": "100020010",
+    "reading": "こ",
+    "parent": "己",
+    "codepoint": null
+  },
+  {
+    "id": "100030010",
+    "reading": "こ",
+    "parent": "故",
+    "codepoint": "1B039"
+  },
+  {
+    "id": "100040010",
+    "reading": "こ",
+    "parent": "期",
+    "codepoint": "1B03B"
+  },
+  {
+    "id": "100070010",
+    "reading": "こ",
+    "parent": "許",
+    "codepoint": "1B03A"
+  },
+  {
+    "id": "110010010",
+    "reading": "さ",
+    "parent": "乍",
+    "codepoint": "1B03C"
+  },
+  {
+    "id": "110020010",
+    "reading": "さ",
+    "parent": "佐",
+    "codepoint": "1B03D"
+  },
+  {
+    "id": "110020020",
+    "reading": "さ",
+    "parent": "佐",
+    "codepoint": "1B03E"
+  },
+  {
+    "id": "110030010",
+    "reading": "さ",
+    "parent": "左",
+    "codepoint": "1B03F"
+  },
+  {
+    "id": "110040010",
+    "reading": "さ",
+    "parent": "差",
+    "codepoint": "1B040"
+  },
+  {
+    "id": "110050010",
+    "reading": "さ",
+    "parent": "散",
+    "codepoint": "1B041"
+  },
+  {
+    "id": "110060010",
+    "reading": "さ",
+    "parent": "斜",
+    "codepoint": "1B042"
+  },
+  {
+    "id": "110070010",
+    "reading": "さ",
+    "parent": "沙",
+    "codepoint": "1B043"
+  },
+  {
+    "id": "110080010",
+    "reading": "さ",
+    "parent": "狹",
+    "codepoint": null
+  },
+  {
+    "id": "120010010",
+    "reading": "し",
+    "parent": "之",
+    "codepoint": "1B044"
+  },
+  {
+    "id": "120010020",
+    "reading": "し",
+    "parent": "之",
+    "codepoint": "1B045"
+  },
+  {
+    "id": "120020010",
+    "reading": "し",
+    "parent": "事",
+    "codepoint": "1B046"
+  },
+  {
+    "id": "120030010",
+    "reading": "し",
+    "parent": "四",
+    "codepoint": "1B047"
+  },
+  {
+    "id": "120050010",
+    "reading": "し",
+    "parent": "志",
+    "codepoint": "1B048"
+  },
+  {
+    "id": "120070010",
+    "reading": "し",
+    "parent": "新",
+    "codepoint": "1B049"
+  },
+  {
+    "id": "130010010",
+    "reading": "す",
+    "parent": "受",
+    "codepoint": "1B04A"
+  },
+  {
+    "id": "130020010",
+    "reading": "す",
+    "parent": "壽",
+    "codepoint": "1B04B"
+  },
+  {
+    "id": "130030010",
+    "reading": "す",
+    "parent": "寸",
+    "codepoint": null
+  },
+  {
+    "id": "130040010",
+    "reading": "す",
+    "parent": "數",
+    "codepoint": "1B04C"
+  },
+  {
+    "id": "130040020",
+    "reading": "す",
+    "parent": "數",
+    "codepoint": "1B04D"
+  },
+  {
+    "id": "130050010",
+    "reading": "す",
+    "parent": "春",
+    "codepoint": "1B04E"
+  },
+  {
+    "id": "130050020",
+    "reading": "す",
+    "parent": "春",
+    "codepoint": null
+  },
+  {
+    "id": "130050030",
+    "reading": "す",
+    "parent": "春",
+    "codepoint": "1B04F"
+  },
+  {
+    "id": "130060010",
+    "reading": "す",
+    "parent": "須",
+    "codepoint": "1B050"
+  },
+  {
+    "id": "130060020",
+    "reading": "す",
+    "parent": "須",
+    "codepoint": "1B051"
+  },
+  {
+    "id": "140010030",
+    "reading": "せ",
+    "parent": "世",
+    "codepoint": "1B052"
+  },
+  {
+    "id": "140010040",
+    "reading": "せ",
+    "parent": "世",
+    "codepoint": "1B053"
+  },
+  {
+    "id": "140020010",
+    "reading": "せ",
+    "parent": "勢",
+    "codepoint": "1B055"
+  },
+  {
+    "id": "140030010",
+    "reading": "せ",
+    "parent": "瀬",
+    "codepoint": null
+  },
+  {
+    "id": "140040010",
+    "reading": "せ",
+    "parent": "聲",
+    "codepoint": "1B056"
+  },
+  {
+    "id": "150010010",
+    "reading": "そ",
+    "parent": "所",
+    "codepoint": "1B057"
+  },
+  {
+    "id": "150010020",
+    "reading": "そ",
+    "parent": "所",
+    "codepoint": "1B058"
+  },
+  {
+    "id": "150020010",
+    "reading": "そ",
+    "parent": "曾",
+    "codepoint": "1B059"
+  },
+  {
+    "id": "150020020",
+    "reading": "そ",
+    "parent": "曾",
+    "codepoint": "1B05A"
+  },
+  {
+    "id": "150030010",
+    "reading": "そ",
+    "parent": "楚",
+    "codepoint": "1B05B"
+  },
+  {
+    "id": "150040010",
+    "reading": "そ",
+    "parent": "蘇",
+    "codepoint": "1B05C"
+  },
+  {
+    "id": "150050010",
+    "reading": "そ",
+    "parent": "處",
+    "codepoint": null
+  },
+  {
+    "id": "150050020",
+    "reading": "そ",
+    "parent": "處",
+    "codepoint": "1B05D"
+  },
+  {
+    "id": "160010010",
+    "reading": "た",
+    "parent": "堂",
+    "codepoint": "1B05E"
+  },
+  {
+    "id": "160020010",
+    "reading": "た",
+    "parent": "多",
+    "codepoint": "1B05F"
+  },
+  {
+    "id": "160020020",
+    "reading": "た",
+    "parent": "多",
+    "codepoint": "1B060"
+  },
+  {
+    "id": "160020030",
+    "reading": "た",
+    "parent": "多",
+    "codepoint": null
+  },
+  {
+    "id": "160040010",
+    "reading": "た",
+    "parent": "田",
+    "codepoint": null
+  },
+  {
+    "id": "160050010",
+    "reading": "た",
+    "parent": "當",
+    "codepoint": "1B061"
+  },
+  {
+    "id": "170010010",
+    "reading": "ち",
+    "parent": "千",
+    "codepoint": "1B062"
+  },
+  {
+    "id": "170020010",
+    "reading": "ち",
+    "parent": "地",
+    "codepoint": "1B063"
+  },
+  {
+    "id": "170030010",
+    "reading": "ち",
+    "parent": "智",
+    "codepoint": "1B064"
+  },
+  {
+    "id": "170040010",
+    "reading": "ち",
+    "parent": "知",
+    "codepoint": "1B066"
+  },
+  {
+    "id": "170050010",
+    "reading": "ち",
+    "parent": "致",
+    "codepoint": "1B067"
+  },
+  {
+    "id": "170060010",
+    "reading": "ち",
+    "parent": "遲",
+    "codepoint": "1B068"
+  },
+  {
+    "id": "180010010",
+    "reading": "つ",
+    "parent": "川",
+    "codepoint": "1B069"
+  },
+  {
+    "id": "180010020",
+    "reading": "つ",
+    "parent": "川",
+    "codepoint": "1B06A"
+  },
+  {
+    "id": "180020010",
+    "reading": "つ",
+    "parent": "徒",
+    "codepoint": "1B06D"
+  },
+  {
+    "id": "180030010",
+    "reading": "つ",
+    "parent": "津",
+    "codepoint": "1B06B"
+  },
+  {
+    "id": "180040010",
+    "reading": "つ",
+    "parent": "都",
+    "codepoint": "1B06C"
+  },
+  {
+    "id": "190010010",
+    "reading": "て",
+    "parent": "亭",
+    "codepoint": "1B06E"
+  },
+  {
+    "id": "190020010",
+    "reading": "て",
+    "parent": "低",
+    "codepoint": "1B06F"
+  },
+  {
+    "id": "190040010",
+    "reading": "て",
+    "parent": "傳",
+    "codepoint": "1B070"
+  },
+  {
+    "id": "190050010",
+    "reading": "て",
+    "parent": "天",
+    "codepoint": "1B071"
+  },
+  {
+    "id": "190050020",
+    "reading": "て",
+    "parent": "天",
+    "codepoint": "1B072"
+  },
+  {
+    "id": "190050030",
+    "reading": "て",
+    "parent": "天",
+    "codepoint": "1B073"
+  },
+  {
+    "id": "190060010",
+    "reading": "て",
+    "parent": "帝",
+    "codepoint": "1B074"
+  },
+  {
+    "id": "190070010",
+    "reading": "て",
+    "parent": "弖",
+    "codepoint": "1B075"
+  },
+  {
+    "id": "190080010",
+    "reading": "て",
+    "parent": "轉",
+    "codepoint": "1B076"
+  },
+  {
+    "id": "200010010",
+    "reading": "と",
+    "parent": "土",
+    "codepoint": "1B077"
+  },
+  {
+    "id": "200020010",
+    "reading": "と",
+    "parent": "度",
+    "codepoint": "1B078"
+  },
+  {
+    "id": "200040010",
+    "reading": "と",
+    "parent": "東",
+    "codepoint": "1B079"
+  },
+  {
+    "id": "200050020",
+    "reading": "と",
+    "parent": "止",
+    "codepoint": null
+  },
+  {
+    "id": "200050030",
+    "reading": "と",
+    "parent": "止",
+    "codepoint": null
+  },
+  {
+    "id": "200060010",
+    "reading": "と",
+    "parent": "登",
+    "codepoint": "1B07A"
+  },
+  {
+    "id": "200060020",
+    "reading": "と",
+    "parent": "登",
+    "codepoint": "1B07B"
+  },
+  {
+    "id": "200070010",
+    "reading": "と",
+    "parent": "砥",
+    "codepoint": "1B07C"
+  },
+  {
+    "id": "200080010",
+    "reading": "と",
+    "parent": "等",
+    "codepoint": "1B07D"
+  },
+  {
+    "id": "210010010",
+    "reading": "な",
+    "parent": "南",
+    "codepoint": "1B07E"
+  },
+  {
+    "id": "210020010",
+    "reading": "な",
+    "parent": "名",
+    "codepoint": "1B07F"
+  },
+  {
+    "id": "210030010",
+    "reading": "な",
+    "parent": "奈",
+    "codepoint": "1B080"
+  },
+  {
+    "id": "210030020",
+    "reading": "な",
+    "parent": "奈",
+    "codepoint": "1B081"
+  },
+  {
+    "id": "210030030",
+    "reading": "な",
+    "parent": "奈",
+    "codepoint": "1B082"
+  },
+  {
+    "id": "210040010",
+    "reading": "な",
+    "parent": "菜",
+    "codepoint": "1B083"
+  },
+  {
+    "id": "210050010",
+    "reading": "な",
+    "parent": "那",
+    "codepoint": "1B084"
+  },
+  {
+    "id": "210050020",
+    "reading": "な",
+    "parent": "那",
+    "codepoint": "1B085"
+  },
+  {
+    "id": "210060010",
+    "reading": "な",
+    "parent": "難",
+    "codepoint": "1B086"
+  },
+  {
+    "id": "220010010",
+    "reading": "に",
+    "parent": "丹",
+    "codepoint": "1B087"
+  },
+  {
+    "id": "220020010",
+    "reading": "に",
+    "parent": "二",
+    "codepoint": "1B088"
+  },
+  {
+    "id": "220030010",
+    "reading": "に",
+    "parent": "仁",
+    "codepoint": "1B089"
+  },
+  {
+    "id": "220040010",
+    "reading": "に",
+    "parent": "兒",
+    "codepoint": "1B08A"
+  },
+  {
+    "id": "220060010",
+    "reading": "に",
+    "parent": "爾",
+    "codepoint": "1B08B"
+  },
+  {
+    "id": "220060020",
+    "reading": "に",
+    "parent": "爾",
+    "codepoint": "1B08C"
+  },
+  {
+    "id": "220070010",
+    "reading": "に",
+    "parent": "而",
+    "codepoint": "1B08E"
+  },
+  {
+    "id": "220080010",
+    "reading": "に",
+    "parent": "耳",
+    "codepoint": "1B08D"
+  },
+  {
+    "id": "230010010",
+    "reading": "ぬ",
+    "parent": "努",
+    "codepoint": "1B08F"
+  },
+  {
+    "id": "230030010",
+    "reading": "ぬ",
+    "parent": "怒",
+    "codepoint": "1B091"
+  },
+  {
+    "id": "240010010",
+    "reading": "ね",
+    "parent": "子",
+    "codepoint": "1B098"
+  },
+  {
+    "id": "240030010",
+    "reading": "ね",
+    "parent": "年",
+    "codepoint": "1B092"
+  },
+  {
+    "id": "240030020",
+    "reading": "ね",
+    "parent": "年",
+    "codepoint": "1B094"
+  },
+  {
+    "id": "240060010",
+    "reading": "ね",
+    "parent": "熱",
+    "codepoint": "1B096"
+  },
+  {
+    "id": "240070010",
+    "reading": "ね",
+    "parent": "禰",
+    "codepoint": "1B097"
+  },
+  {
+    "id": "250010010",
+    "reading": "の",
+    "parent": "乃",
+    "codepoint": "1B099"
+  },
+  {
+    "id": "250020010",
+    "reading": "の",
+    "parent": "濃",
+    "codepoint": "1B09A"
+  },
+  {
+    "id": "250030010",
+    "reading": "の",
+    "parent": "能",
+    "codepoint": "1B09B"
+  },
+  {
+    "id": "250030020",
+    "reading": "の",
+    "parent": "能",
+    "codepoint": "1B09C"
+  },
+  {
+    "id": "250040010",
+    "reading": "の",
+    "parent": "農",
+    "codepoint": "1B09D"
+  },
+  {
+    "id": "250050010",
+    "reading": "の",
+    "parent": "迺",
+    "codepoint": null
+  },
+  {
+    "id": "260010010",
+    "reading": "は",
+    "parent": "八",
+    "codepoint": "1B09E"
+  },
+  {
+    "id": "260020010",
+    "reading": "は",
+    "parent": "半",
+    "codepoint": "1B09F"
+  },
+  {
+    "id": "260030010",
+    "reading": "は",
+    "parent": "婆",
+    "codepoint": "1B0A0"
+  },
+  {
+    "id": "260040010",
+    "reading": "は",
+    "parent": "波",
+    "codepoint": "1B0A1"
+  },
+  {
+    "id": "260050010",
+    "reading": "は",
+    "parent": "盤",
+    "codepoint": "1B0A2"
+  },
+  {
+    "id": "260050020",
+    "reading": "は",
+    "parent": "盤",
+    "codepoint": "1B0A3"
+  },
+  {
+    "id": "260060010",
+    "reading": "は",
+    "parent": "破",
+    "codepoint": "1B0A4"
+  },
+  {
+    "id": "260080010",
+    "reading": "は",
+    "parent": "者",
+    "codepoint": "1B0A5"
+  },
+  {
+    "id": "260080020",
+    "reading": "は",
+    "parent": "者",
+    "codepoint": "1B0A6"
+  },
+  {
+    "id": "260090010",
+    "reading": "は",
+    "parent": "芳",
+    "codepoint": null
+  },
+  {
+    "id": "260100010",
+    "reading": "は",
+    "parent": "葉",
+    "codepoint": "1B0A7"
+  },
+  {
+    "id": "260110010",
+    "reading": "は",
+    "parent": "頗",
+    "codepoint": "1B0A8"
+  },
+  {
+    "id": "270010010",
+    "reading": "ひ",
+    "parent": "妣",
+    "codepoint": null
+  },
+  {
+    "id": "270020010",
+    "reading": "ひ",
+    "parent": "悲",
+    "codepoint": "1B0A9"
+  },
+  {
+    "id": "270030010",
+    "reading": "ひ",
+    "parent": "日",
+    "codepoint": "1B0AA"
+  },
+  {
+    "id": "270040010",
+    "reading": "ひ",
+    "parent": "比",
+    "codepoint": "1B0AB"
+  },
+  {
+    "id": "270050010",
+    "reading": "ひ",
+    "parent": "避",
+    "codepoint": "1B0AC"
+  },
+  {
+    "id": "270060010",
+    "reading": "ひ",
+    "parent": "非",
+    "codepoint": "1B0AD"
+  },
+  {
+    "id": "270070010",
+    "reading": "ひ",
+    "parent": "飛",
+    "codepoint": "1B0AE"
+  },
+  {
+    "id": "270070020",
+    "reading": "ひ",
+    "parent": "飛",
+    "codepoint": "1B0AF"
+  },
+  {
+    "id": "280010010",
+    "reading": "ふ",
+    "parent": "不",
+    "codepoint": "1B0B0"
+  },
+  {
+    "id": "280020010",
+    "reading": "ふ",
+    "parent": "婦",
+    "codepoint": "1B0B1"
+  },
+  {
+    "id": "280030010",
+    "reading": "ふ",
+    "parent": "布",
+    "codepoint": "1B0B2"
+  },
+  {
+    "id": "290010010",
+    "reading": "へ",
+    "parent": "倍",
+    "codepoint": "1B0B3"
+  },
+  {
+    "id": "290030020",
+    "reading": "へ",
+    "parent": "弊",
+    "codepoint": "1B0B5"
+  },
+  {
+    "id": "290050010",
+    "reading": "へ",
+    "parent": "遍",
+    "codepoint": "1B0B6"
+  },
+  {
+    "id": "290060010",
+    "reading": "へ",
+    "parent": "邊",
+    "codepoint": "1B0B7"
+  },
+  {
+    "id": "290070020",
+    "reading": "へ",
+    "parent": "部",
+    "codepoint": "1B0B9"
+  },
+  {
+    "id": "300010010",
+    "reading": "ほ",
+    "parent": "保",
+    "codepoint": "1B0BA"
+  },
+  {
+    "id": "300010020",
+    "reading": "ほ",
+    "parent": "保",
+    "codepoint": null
+  },
+  {
+    "id": "300010030",
+    "reading": "ほ",
+    "parent": "保",
+    "codepoint": "1B0BB"
+  },
+  {
+    "id": "300010040",
+    "reading": "ほ",
+    "parent": "保",
+    "codepoint": null
+  },
+  {
+    "id": "300020010",
+    "reading": "ほ",
+    "parent": "報",
+    "codepoint": "1B0BC"
+  },
+  {
+    "id": "300030010",
+    "reading": "ほ",
+    "parent": "奉",
+    "codepoint": "1B0BD"
+  },
+  {
+    "id": "300040010",
+    "reading": "ほ",
+    "parent": "寶",
+    "codepoint": "1B0BE"
+  },
+  {
+    "id": "300050010",
+    "reading": "ほ",
+    "parent": "本",
+    "codepoint": "1B0C0"
+  },
+  {
+    "id": "300050020",
+    "reading": "ほ",
+    "parent": "本",
+    "codepoint": null
+  },
+  {
+    "id": "300050030",
+    "reading": "ほ",
+    "parent": "本",
+    "codepoint": "1B0BF"
+  },
+  {
+    "id": "310010010",
+    "reading": "ま",
+    "parent": "万",
+    "codepoint": "1B0C2"
+  },
+  {
+    "id": "310020010",
+    "reading": "ま",
+    "parent": "末",
+    "codepoint": "1B0C3"
+  },
+  {
+    "id": "310020020",
+    "reading": "ま",
+    "parent": "末",
+    "codepoint": "1B0C4"
+  },
+  {
+    "id": "310030010",
+    "reading": "ま",
+    "parent": "滿",
+    "codepoint": "1B0C5"
+  },
+  {
+    "id": "310030020",
+    "reading": "ま",
+    "parent": "滿",
+    "codepoint": "1B0C6"
+  },
+  {
+    "id": "310050010",
+    "reading": "ま",
+    "parent": "萬",
+    "codepoint": "1B0C7"
+  },
+  {
+    "id": "310070010",
+    "reading": "ま",
+    "parent": "麻",
+    "codepoint": "1B0C8"
+  },
+  {
+    "id": "320010010",
+    "reading": "み",
+    "parent": "三",
+    "codepoint": "1B0C9"
+  },
+  {
+    "id": "320020010",
+    "reading": "み",
+    "parent": "微",
+    "codepoint": "1B0CA"
+  },
+  {
+    "id": "320030010",
+    "reading": "み",
+    "parent": "美",
+    "codepoint": "1B0CB"
+  },
+  {
+    "id": "320030020",
+    "reading": "み",
+    "parent": "美",
+    "codepoint": "1B0CC"
+  },
+  {
+    "id": "320030030",
+    "reading": "み",
+    "parent": "美",
+    "codepoint": "1B0CD"
+  },
+  {
+    "id": "320040010",
+    "reading": "み",
+    "parent": "見",
+    "codepoint": "1B0CE"
+  },
+  {
+    "id": "320050010",
+    "reading": "み",
+    "parent": "身",
+    "codepoint": "1B0CF"
+  },
+  {
+    "id": "330020010",
+    "reading": "む",
+    "parent": "无",
+    "codepoint": "1B11E"
+  },
+  {
+    "id": "330040010",
+    "reading": "む",
+    "parent": "無",
+    "codepoint": "1B0D1"
+  },
+  {
+    "id": "330050010",
+    "reading": "む",
+    "parent": "牟",
+    "codepoint": "1B0D2"
+  },
+  {
+    "id": "330060010",
+    "reading": "む",
+    "parent": "舞",
+    "codepoint": "1B0D3"
+  },
+  {
+    "id": "340010010",
+    "reading": "め",
+    "parent": "免",
+    "codepoint": "1B0D4"
+  },
+  {
+    "id": "340030010",
+    "reading": "め",
+    "parent": "面",
+    "codepoint": "1B0D5"
+  },
+  {
+    "id": "340040010",
+    "reading": "め",
+    "parent": "馬",
+    "codepoint": "1B0D6"
+  },
+  {
+    "id": "350010010",
+    "reading": "も",
+    "parent": "母",
+    "codepoint": "1B0D7"
+  },
+  {
+    "id": "350020010",
+    "reading": "も",
+    "parent": "毛",
+    "codepoint": "1B0D8"
+  },
+  {
+    "id": "350020020",
+    "reading": "も",
+    "parent": "毛",
+    "codepoint": "1B0D9"
+  },
+  {
+    "id": "350020040",
+    "reading": "も",
+    "parent": "毛",
+    "codepoint": null
+  },
+  {
+    "id": "350020050",
+    "reading": "も",
+    "parent": "毛",
+    "codepoint": null
+  },
+  {
+    "id": "350020060",
+    "reading": "も",
+    "parent": "毛",
+    "codepoint": "1B0DA"
+  },
+  {
+    "id": "350020070",
+    "reading": "も",
+    "parent": "毛",
+    "codepoint": null
+  },
+  {
+    "id": "350030010",
+    "reading": "も",
+    "parent": "茂",
+    "codepoint": "1B0DB"
+  },
+  {
+    "id": "350040010",
+    "reading": "も",
+    "parent": "裳",
+    "codepoint": "1B0DC"
+  },
+  {
+    "id": "360010020",
+    "reading": "や",
+    "parent": "也",
+    "codepoint": "1B0DD"
+  },
+  {
+    "id": "360010030",
+    "reading": "や",
+    "parent": "也",
+    "codepoint": "1B0DE"
+  },
+  {
+    "id": "360030010",
+    "reading": "や",
+    "parent": "夜",
+    "codepoint": "1B0E2"
+  },
+  {
+    "id": "360040010",
+    "reading": "や",
+    "parent": "屋",
+    "codepoint": "1B0DF"
+  },
+  {
+    "id": "360050020",
+    "reading": "や",
+    "parent": "耶",
+    "codepoint": "1B0E1"
+  },
+  {
+    "id": "370020010",
+    "reading": "ゆ",
+    "parent": "由",
+    "codepoint": "1B0E4"
+  },
+  {
+    "id": "370020020",
+    "reading": "ゆ",
+    "parent": "由",
+    "codepoint": "1B0E5"
+  },
+  {
+    "id": "370030010",
+    "reading": "ゆ",
+    "parent": "遊",
+    "codepoint": "1B0E6"
+  },
+  {
+    "id": "370030020",
+    "reading": "ゆ",
+    "parent": "遊",
+    "codepoint": null
+  },
+  {
+    "id": "380020010",
+    "reading": "よ",
+    "parent": "余",
+    "codepoint": "1B0E8"
+  },
+  {
+    "id": "380030020",
+    "reading": "よ",
+    "parent": "與",
+    "codepoint": "1B0EA"
+  },
+  {
+    "id": "380030030",
+    "reading": "よ",
+    "parent": "與",
+    "codepoint": "1B0EB"
+  },
+  {
+    "id": "380040010",
+    "reading": "よ",
+    "parent": "餘",
+    "codepoint": "1B0EC"
+  },
+  {
+    "id": "390010010",
+    "reading": "ら",
+    "parent": "羅",
+    "codepoint": "1B0ED"
+  },
+  {
+    "id": "390020010",
+    "reading": "ら",
+    "parent": "良",
+    "codepoint": "1B0EE"
+  },
+  {
+    "id": "390020020",
+    "reading": "ら",
+    "parent": "良",
+    "codepoint": null
+  },
+  {
+    "id": "390020030",
+    "reading": "ら",
+    "parent": "良",
+    "codepoint": "1B0F0"
+  },
+  {
+    "id": "400010010",
+    "reading": "り",
+    "parent": "利",
+    "codepoint": "1B0F1"
+  },
+  {
+    "id": "400010020",
+    "reading": "り",
+    "parent": "利",
+    "codepoint": "1B0F2"
+  },
+  {
+    "id": "400020010",
+    "reading": "り",
+    "parent": "李",
+    "codepoint": "1B0F3"
+  },
+  {
+    "id": "400030010",
+    "reading": "り",
+    "parent": "梨",
+    "codepoint": "1B0F4"
+  },
+  {
+    "id": "400040010",
+    "reading": "り",
+    "parent": "理",
+    "codepoint": "1B0F5"
+  },
+  {
+    "id": "400050010",
+    "reading": "り",
+    "parent": "里",
+    "codepoint": "1B0F6"
+  },
+  {
+    "id": "400060010",
+    "reading": "り",
+    "parent": "離",
+    "codepoint": "1B0F7"
+  },
+  {
+    "id": "410010010",
+    "reading": "る",
+    "parent": "流",
+    "codepoint": "1B0F8"
+  },
+  {
+    "id": "410020010",
+    "reading": "る",
+    "parent": "留",
+    "codepoint": "1B0F9"
+  },
+  {
+    "id": "410020020",
+    "reading": "る",
+    "parent": "留",
+    "codepoint": "1B0FA"
+  },
+  {
+    "id": "410020030",
+    "reading": "る",
+    "parent": "留",
+    "codepoint": "1B0FB"
+  },
+  {
+    "id": "410030010",
+    "reading": "る",
+    "parent": "累",
+    "codepoint": "1B0FC"
+  },
+  {
+    "id": "410040010",
+    "reading": "る",
+    "parent": "類",
+    "codepoint": "1B0FD"
+  },
+  {
+    "id": "420010010",
+    "reading": "れ",
+    "parent": "禮",
+    "codepoint": "1B0FE"
+  },
+  {
+    "id": "420010020",
+    "reading": "れ",
+    "parent": "禮",
+    "codepoint": null
+  },
+  {
+    "id": "420010030",
+    "reading": "れ",
+    "parent": "禮",
+    "codepoint": "1B0FF"
+  },
+  {
+    "id": "420020010",
+    "reading": "れ",
+    "parent": "連",
+    "codepoint": "1B100"
+  },
+  {
+    "id": "420030010",
+    "reading": "れ",
+    "parent": "麗",
+    "codepoint": "1B101"
+  },
+  {
+    "id": "430020010",
+    "reading": "ろ",
+    "parent": "呂",
+    "codepoint": "1B102"
+  },
+  {
+    "id": "430020020",
+    "reading": "ろ",
+    "parent": "呂",
+    "codepoint": "1B103"
+  },
+  {
+    "id": "430030010",
+    "reading": "ろ",
+    "parent": "婁",
+    "codepoint": "1B104"
+  },
+  {
+    "id": "430040010",
+    "reading": "ろ",
+    "parent": "樓",
+    "codepoint": "1B105"
+  },
+  {
+    "id": "430050010",
+    "reading": "ろ",
+    "parent": "路",
+    "codepoint": "1B106"
+  },
+  {
+    "id": "430060010",
+    "reading": "ろ",
+    "parent": "露",
+    "codepoint": "1B107"
+  },
+  {
+    "id": "440010010",
+    "reading": "わ",
+    "parent": "倭",
+    "codepoint": "1B108"
+  },
+  {
+    "id": "440020010",
+    "reading": "わ",
+    "parent": "和",
+    "codepoint": "1B109"
+  },
+  {
+    "id": "440020020",
+    "reading": "わ",
+    "parent": "和",
+    "codepoint": "1B10A"
+  },
+  {
+    "id": "440030010",
+    "reading": "わ",
+    "parent": "王",
+    "codepoint": "1B10B"
+  },
+  {
+    "id": "450010010",
+    "reading": "ゐ",
+    "parent": "井",
+    "codepoint": "1B10D"
+  },
+  {
+    "id": "450010020",
+    "reading": "ゐ",
+    "parent": "井",
+    "codepoint": "1B10E"
+  },
+  {
+    "id": "450050010",
+    "reading": "ゐ",
+    "parent": "遺",
+    "codepoint": "1B111"
+  },
+  {
+    "id": "460010010",
+    "reading": "ゑ",
+    "parent": "惠",
+    "codepoint": "1B112"
+  },
+  {
+    "id": "460010020",
+    "reading": "ゑ",
+    "parent": "惠",
+    "codepoint": null
+  },
+  {
+    "id": "460020010",
+    "reading": "ゑ",
+    "parent": "衞",
+    "codepoint": "1B113"
+  },
+  {
+    "id": "460020020",
+    "reading": "ゑ",
+    "parent": "衞",
+    "codepoint": "1B114"
+  },
+  {
+    "id": "470010010",
+    "reading": "を",
+    "parent": "乎",
+    "codepoint": "1B116"
+  },
+  {
+    "id": "470010020",
+    "reading": "を",
+    "parent": "乎",
+    "codepoint": "1B117"
+  },
+  {
+    "id": "470020010",
+    "reading": "を",
+    "parent": "尾",
+    "codepoint": "1B118"
+  },
+  {
+    "id": "470030010",
+    "reading": "を",
+    "parent": "緒",
+    "codepoint": "1B119"
+  },
+  {
+    "id": "470040010",
+    "reading": "を",
+    "parent": "越",
+    "codepoint": "1B11A"
+  },
+  {
+    "id": "470050010",
+    "reading": "を",
+    "parent": "遠",
+    "codepoint": "1B11B"
+  },
+  {
+    "id": "470050020",
+    "reading": "を",
+    "parent": "遠",
+    "codepoint": "1B11C"
+  }
+]
