@@ -11,14 +11,14 @@ ROWS = [('Vowels','アイウエオ'),('K','カキクケコ'),('S','サシスセ�
 
 def sound_table(system):
     mapping = json.loads((ROOT/'data/katakamuna-glyphs.json').read_text())
-    out = f'<div class="chart script-chart"><table><caption>{system.title()} 48-character sound reference</caption><thead><tr><th scope="col">Row</th>' + ''.join(f'<th scope="col">{v}</th>' for v in 'AIUEO') + '</tr></thead><tbody>'
+    out = f'<div class="chart script-chart {system}"><table><caption>{system.title()} 48-character sound reference</caption><thead><tr><th scope="col">Row</th>' + ''.join(f'<th scope="col">{v}</th>' for v in 'AIUEO') + '</tr></thead><tbody>'
     for label, sounds in ROWS:
         out += f'<tr><th scope="row">{label}</th>'
         for k in sounds:
             if k == ' ':
                 out += '<td class="empty" aria-label="No separate character in this chart">—</td>'
                 continue
-            url = f'assets/glyphs/woshite/{k}.png' if system == 'woshite' else mapping[k]
+            url = f'assets/glyphs/woshite/{k}.png?v=2' if system == 'woshite' else mapping[k]
             out += f'<td><img class="script-glyph" src="{escape(url,quote=True)}" alt="{system.title()} {k}" loading="lazy" width="40" height="40"><small lang="ja">{k}</small></td>'
         out += '</tr>'
     return out + '</tbody></table></div>'

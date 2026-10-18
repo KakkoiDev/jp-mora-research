@@ -6,4 +6,4 @@ Preview used: https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Japanese_
 License selected: Creative Commons Attribution-ShareAlike 3.0 Unported.
 License: https://creativecommons.org/licenses/by-sa/3.0/
 
-Changes: Cropped the chart preview into 48 individual glyphs; removed blue table-border pixels. These adapted glyph assets remain under CC BY-SA 3.0. This license does not apply to unrelated repository files.
+Changes: Cropped the full chart cells into 48 individual glyphs, preserving overhanging strokes; removed blue table-border pixels and added transparent padding. These adapted glyph assets remain under CC BY-SA 3.0. This license does not apply to unrelated repository files.
