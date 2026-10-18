@@ -37,3 +37,14 @@ The proposal aims to add several missing characters to the Hiragana and Katakana
 
 Full credit for the research, data, and proposal is given to **Abraham Gross**. This work is shared for research and archival purposes. 
 The original proposal can also be found on the official Unicode website: [http://www.unicode.org/L2/2019/19381-missing-kana.pdf](http://www.unicode.org/L2/2019/19381-missing-kana.pdf)
+
+## Research website
+
+The site has three tabs: Hiragana / Katakana, Woshite, and Katakamuna.
+Run `python3 data/generate_site.py` to regenerate `index.html`.
+
+- Woshite: 48 locally bundled glyph crops by MOTOI Kenkichi, CC BY-SA 3.0. See `assets/glyphs/woshite/ATTRIBUTION.md`.
+- Katakamuna: 48 glyph images referenced from their creator at https://katakamuna-note.com/katakamuna-phontlist/26/ (requires internet access).
+- Utahi: all 80 numbered entries in `data/utahi.json`, with individual source links and a selectable external PDF reader. The PDF remains at https://hajime.online/download/KATAKAMUNAUTAI80SHU.pdf; no full verse transcription or modern commentary is redistributed.
+
+The 48 sound symbols and the 80 utahi are different collections. WI, WE, and N labels follow the cited charts; the tables do not invent YI, YE, or WU mappings. Prehistoric-origin and spiritual/scientific claims are not established historical conclusions of this project.
